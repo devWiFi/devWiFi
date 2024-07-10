@@ -1,7 +1,7 @@
 #  Hello, im WiFi👋
 
 <a href="https://discord.com/users/584297528523096074" target="_blank">
-  <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/584297528523096074?theme=light&borderRadius=5px">
+  <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1177684152447926443?theme=light&borderRadius=5px">
 <a />
 
 ### Languages & Tools
